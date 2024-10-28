@@ -1,37 +1,36 @@
-Pickle Duck
-Pickle Duck is a 2D platformer game where you control a charming duck on a mission to complete challenging levels while collecting coins and racing against the clock. Each level features unique obstacles, hidden areas, and multiple objectives to keep you engaged and coming back for more.
+# Pickle Duck
 
-Game Features
-Challenging Levels: Navigate through various levels filled with obstacles, enemies, and secrets.
-Collectibles: Find and collect coins to complete level objectives and unlock more content.
-Speed Challenges: Race against the clock to beat level times and find hidden speed coins.
-Multiple Objectives: Complete different tasks for each level to earn rewards and test your skills.
-Controls
-Keyboard & Mouse (KBM)
-Movement: WASD or Arrow Keys
-Jump / Flap: Spacebar (Hold to glide)
-Dash: Left Shift (Hold to glide)
-Pause: Esc
-Controller (PlayStation / Xbox)
-Movement: Left Stick
-Jump / Flap: X (PS) / A (Xbox) (Hold to glide)
-Dash: Square (PS) / X (Xbox) / R2 (PS) / RT (Xbox) (Hold to glide)
-Pause: Start
-Objectives
-Each level has three main objectives and an additional bonus:
+Pickle Duck is a 2D platformer game where the objective is to complete each level while collecting coins and pickles. The game features challenging gameplay with multiple objectives in each level.
 
-Find the Coin: Locate the hidden coin in the level and collect it.
-Collect All Pickles: Gather every pickle in the level before completing it.
-Beat the Level Time: Finish the level under the target time.
-Bonus Red Speed Coin: Each level contains a hidden speed coin that appears for a limited time. To collect it, you must reach it quickly before it disappears.
-Screenshots & Gameplay
-[Include some screenshots here or link to the gameplay video]
+## Controls
 
-Installation & Setup
-Download the game executable from the releases section.
-Run the game executable to start playing.
-Development
-"Pickle Duck" is an ongoing project created in the Godot game engine. The game is still in development, with additional levels, features, and polish planned for future updates.
+### Keyboard & Mouse
+- **Movement**: `WASD` or arrow keys
+- **Jump/Flap**: `Space Bar`
+- **Dash**: `Shift`
+- **Pause**: `Esc`
+- **Glide**: Hold `Space Bar` or `Shift` while jumping or dashing
 
-Feedback & Contributions
-Feel free to open issues for bugs or suggestions. Contributions to the project are welcome!
+### Controller
+- **Movement**: Left Stick
+- **Jump/Flap**: `X` (PS) / `A` (Xbox)
+- **Dash**: `Square` (PS) / `X` (Xbox) / `R2` (PS) / `RT` (Xbox)
+- **Pause**: `Start`
+- **Glide**: Hold the jump or dash button while in the air
+
+## Game Objectives
+
+Each level features the following objectives:
+1. **Complete the level** by reaching the end.
+2. **Collect the main coins**:
+   - Find the coin hidden in the level.
+   - Collect all the pickles in the level.
+   - Beat the level under the specified time.
+3. **Bonus Red Speed Coin**: 
+   - There is a hidden red coin in each level that can only be collected by reaching it quickly before it disappears.
+
+## How to Play
+
+The goal is to navigate through the levels, overcome obstacles, and collect as many coins and pickles as possible. Use your platforming skills to dash, jump, and glide your way to victory!
+
+Good luck, and have fun playing Pickle Duck!
