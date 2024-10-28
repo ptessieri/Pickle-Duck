@@ -1,5 +1,8 @@
 # Pickle Duck
 
+## Latest Release
+Check out the latest playable demo of Pickle Duck: [Download v0.1](https://github.com/ptessieri/Pickle-Duck/releases)
+
 Pickle Duck is a 2D platformer game where the objective is to complete each level while collecting coins and pickles. The game features challenging gameplay with multiple objectives in each level.
 
 ## Controls
