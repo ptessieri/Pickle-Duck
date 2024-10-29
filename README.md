@@ -39,7 +39,7 @@ Each level in Pickle Duck offers a series of challenging objectives:
 
 ## 🏆 How to Play
 
-Navigate through creative levels, avoid obstacles, and collect as many items as possible. Master your platforming skills by dashing, jumping, and gliding to complete the levels and achieve the highest score possible.
+Navigate through creative levels, avoid obstacles, and collect as many items as possible. Master your platforming skills by dashing, jumping, and gliding to complete the levels and achieve the fastest time possible.
 
 Good luck, and enjoy your adventure with Pickle Duck!
 
