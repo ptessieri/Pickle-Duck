@@ -48,7 +48,7 @@ Good luck, and enjoy your adventure with Pickle Duck!
 ## 📸 Screenshots
 
 1. **Gameplay Scene - Collecting Coins and Pickles**
-   ![Gameplay Scene](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Gameplay3Resized.png?raw=true)
+   ![Gameplay Scene](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Gameplay3Resized2.png?raw=true)
 
 2. **Gameplay Scene - Retro CRT Effect Filter**
    ![World Selection](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20GameplayRetroResized.png?raw=true)
