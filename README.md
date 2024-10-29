@@ -51,7 +51,7 @@ Good luck, and enjoy your adventure with Pickle Duck!
    ![Gameplay Scene](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Gameplay3Resized2.png?raw=true)
 
 2. **Gameplay Scene - Retro CRT Effect Filter**
-   ![World Selection](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20GameplayRetroResized2.png?raw=true)
+   ![Gameplay Scene with CRT Filter](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20GameplayRetroResized2.png?raw=true)
 
 3. **Platforming Challenges - Overcoming Obstacles**
    ![Platforming Challenges](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Cave2%20Gameplay.png?raw=true)
