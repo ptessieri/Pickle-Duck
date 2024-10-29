@@ -50,17 +50,17 @@ Good luck, and enjoy your adventure with Pickle Duck!
 1. **Gameplay Scene - Collecting Coins and Pickles**
    ![Gameplay Scene](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Gameplay3Resized.png?raw=true)
 
-2. **Platforming Challenges - Overcoming Obstacles**
+2. **Gameplay Scene - Retro CRT Effect Filter**
+   ![World Selection](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20GameplayRetroResized.png?raw=true)
+
+3. **Platforming Challenges - Overcoming Obstacles**
    ![Platforming Challenges](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Cave%20Gameplay.png?raw=true)
 
-3. **Retro TV UI for Level Selection**
+4. **Retro TV UI for Level Selection**
    ![Level Selection](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuckLevelSelectRevised.png?raw=true)
 
-4. **Title Screen - Start Your Adventure!**
+5. **Title Screen - Start Your Adventure!**
    ![Title Screen](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuckTitleResized.png?raw=true)
-
-5. **World Selection Screen - Choose Your Path**
-   ![World Selection](<PLACE_LINK_TO_WORLD_SELECTION_IMAGE_HERE>)
 
 ---
 
