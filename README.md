@@ -48,7 +48,7 @@ Good luck, and enjoy your adventure with Pickle Duck!
 ## 📸 Screenshots
 
 1. **Gameplay Scene - Collecting Coins and Pickles**
-   ![Gameplay Scene](<PLACE_LINK_TO_GAMEPLAY_SCENE_IMAGE_HERE>)
+   ![Gameplay Scene](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Gameplay3Resized.png?raw=true)
 
 2. **Platforming Challenges - Overcoming Obstacles**
    ![Platforming Challenges](<PLACE_LINK_TO_PLATFORMING_CHALLENGES_IMAGE_HERE>)
