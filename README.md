@@ -54,7 +54,7 @@ Good luck, and enjoy your adventure with Pickle Duck!
    ![Platforming Challenges](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuck%20Cave%20Gameplay.png?raw=true)
 
 3. **Retro TV UI for Level Selection**
-   ![Level Selection](<PLACE_LINK_TO_LEVEL_SELECTION_IMAGE_HERE>)
+   ![Level Selection](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuckLevelSelectRevised.png?raw=true)
 
 4. **Title Screen - Start Your Adventure!**
    ![Title Screen](<PLACE_LINK_TO_TITLE_SCREEN_IMAGE_HERE>)
