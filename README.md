@@ -60,7 +60,7 @@ Good luck, and enjoy your adventure with Pickle Duck!
    ![Level Selection](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuckLevelSelectRevised2.png?raw=true)
 
 5. **Title Screen - Start Your Adventure!**
-   ![Title Screen](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuckTitleResized.png?raw=true)
+   ![Title Screen](https://github.com/ptessieri/Pickle-Duck/blob/main/PickleDuckTitleResized2.png?raw=true)
 
 ---
 
