@@ -64,11 +64,5 @@ Good luck, and enjoy your adventure with Pickle Duck!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 Feel free to reach out if you have suggestions, encounter issues, or are interested in contributing. Thank you for checking out Pickle Duck!
 
