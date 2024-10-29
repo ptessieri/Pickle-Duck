@@ -1,11 +1,13 @@
 # Pickle Duck
 
-## Latest Release
+## 🎮 Latest Release
 Check out the latest playable demo of Pickle Duck: [Download v0.1](https://github.com/ptessieri/Pickle-Duck/releases)
 
-Pickle Duck is a 2D platformer game where the objective is to complete each level while collecting coins and pickles. The game features challenging gameplay with multiple objectives in each level.
+Pickle Duck is an engaging 2D platformer where players navigate through vibrant, retro-inspired levels, collecting coins and pickles while facing unique challenges and enemies. Each level comes with multiple objectives, making the game fun, replayable, and challenging.
 
-## Controls
+---
+
+## 🕹️ Controls
 
 ### Keyboard & Mouse
 - **Movement**: `WASD` or arrow keys
@@ -21,19 +23,52 @@ Pickle Duck is a 2D platformer game where the objective is to complete each leve
 - **Pause**: `Start`
 - **Glide**: Hold the jump or dash button while in the air
 
-## Game Objectives
+---
 
-Each level features the following objectives:
-1. **Complete the level** by reaching the end.
-2. **Collect the main coins**:
-   - Find the coin hidden in the level.
-   - Collect all the pickles in the level.
-   - Beat the level under the specified time.
-3. **Bonus Red Speed Coin**: 
-   - There is a hidden red coin in each level that can only be collected by reaching it quickly before it disappears.
+## 🎯 Game Objectives
 
-## How to Play
+Each level in Pickle Duck offers a series of challenging objectives:
+1. **Complete the Level**: Reach the end of the level to advance.
+2. **Coin and Pickle Collection**:
+   - **Hidden Coin**: Discover the hidden coin in each level.
+   - **Pickle Collection**: Gather all pickles scattered across the level.
+   - **Time Challenge**: Complete the level under a specified time.
+3. **Bonus Red Speed Coin**: Unlock this coin by reaching it within a limited time before it vanishes.
 
-The goal is to navigate through the levels, overcome obstacles, and collect as many coins and pickles as possible. Use your platforming skills to dash, jump, and glide your way to victory!
+---
 
-Good luck, and have fun playing Pickle Duck!
+## 🏆 How to Play
+
+Navigate through creative levels, avoid obstacles, and collect as many items as possible. Master your platforming skills by dashing, jumping, and gliding to complete the levels and achieve the highest score possible.
+
+Good luck, and enjoy your adventure with Pickle Duck!
+
+---
+
+## 📸 Screenshots
+
+1. **Gameplay Scene - Collecting Coins and Pickles**
+   ![Gameplay Scene](<PLACE_LINK_TO_GAMEPLAY_SCENE_IMAGE_HERE>)
+
+2. **Platforming Challenges - Overcoming Obstacles**
+   ![Platforming Challenges](<PLACE_LINK_TO_PLATFORMING_CHALLENGES_IMAGE_HERE>)
+
+3. **Retro TV UI for Level Selection**
+   ![Level Selection](<PLACE_LINK_TO_LEVEL_SELECTION_IMAGE_HERE>)
+
+4. **Title Screen - Start Your Adventure!**
+   ![Title Screen](<PLACE_LINK_TO_TITLE_SCREEN_IMAGE_HERE>)
+
+5. **World Selection Screen - Choose Your Path**
+   ![World Selection](<PLACE_LINK_TO_WORLD_SELECTION_IMAGE_HERE>)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Feel free to reach out if you have suggestions, encounter issues, or are interested in contributing. Thank you for checking out Pickle Duck!
+
